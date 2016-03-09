@@ -1,0 +1,466 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"getPosi",
+				"getPositionb"
+			],
+			[
+				"b",
+				"baseline"
+			],
+			[
+				"d",
+				"disableeffect"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"border-top",
+				"border-top-right-radius"
+			],
+			[
+				"bott",
+				"margin-bottom"
+			],
+			[
+				"Get",
+				"GetResponseStream"
+			],
+			[
+				"Web",
+				"WebRequest"
+			],
+			[
+				"St",
+				"StreamWriter"
+			],
+			[
+				"REad",
+				"ReadLine"
+			],
+			[
+				"Rea",
+				"ReadLine"
+			],
+			[
+				"txt",
+				"Text"
+			],
+			[
+				"author",
+				"author_id"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"new",
+				"newWidth"
+			],
+			[
+				"o",
+				"originalWidth"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"clie",
+				"clientHeight"
+			],
+			[
+				"client",
+				"clientWidth"
+			],
+			[
+				"pr",
+				"prompt"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 346.0,
+		"selected_items":
+		[
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"set syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kasinua-arthorn/Dropbox/Senior Project/Website/startbootstrap-modern-business-1.0.5/description.html",
+		"/Users/kasinua-arthorn/Dropbox/Senior Project/Website/startbootstrap-modern-business-1.0.5/login.html",
+		"/Users/kasinua-arthorn/Dropbox/Senior Project/Website/startbootstrap-modern-business-1.0.5/Student.html",
+		"/Users/kasinua-arthorn/Dropbox/Senior Project/Website/startbootstrap-modern-business-1.0.5/js/js.js",
+		"/Users/kasinua-arthorn/Dropbox/Senior Project/Website/startbootstrap-modern-business-1.0.5/courseBrowse.html",
+		"/Users/kasinua-arthorn/mysite/polls/views.py",
+		"/Users/kasinua-arthorn/Dropbox/Senior Project/Website/startbootstrap-modern-business-1.0.5/instructor.html",
+		"/Users/kasinua-arthorn/Dropbox/Senior Project/Website/startbootstrap-modern-business-1.0.5/index.html",
+		"/Users/kasinua-arthorn/Dropbox/Senior Project/Website/startbootstrap-modern-business-1.0.5/student.html",
+		"/Users/kasinua-arthorn/Dropbox/Senior Project/Website/startbootstrap-modern-business-1.0.5/scss/style.scss",
+		"/Users/kasinua-arthorn/Dropbox/Senior Project/Website/startbootstrap-modern-business-1.0.5/about.html",
+		"/Users/kasinua-arthorn/Dropbox/Senior Project/Website/startbootstrap-modern-business-1.0.5/css/modern-business.css",
+		"/Users/kasinua-arthorn/Dropbox/Senior Project/Website/startbootstrap-modern-business-1.0.5/css/modern-business copy.css",
+		"/Users/kasinua-arthorn/Dropbox/Senior Project/Website/startbootstrap-modern-business-1.0.5/index2.html",
+		"/Users/kasinua-arthorn/Desktop/NaNakorn/index2.html",
+		"/Users/kasinua-arthorn/Desktop/NaNakorn/test.html",
+		"/Users/kasinua-arthorn/Desktop/NaNakorn/Inbox.JPG",
+		"/Users/kasinua-arthorn/Desktop/NaNakorn/jquery.js",
+		"/Users/kasinua-arthorn/Desktop/apple.html",
+		"/Users/kasinua-arthorn/Desktop/checkbox/newwwwwww.html",
+		"/Users/kasinua-arthorn/Downloads/Archive/ecel.dat",
+		"/Users/kasinua-arthorn/Desktop/register.js",
+		"/Users/kasinua-arthorn/Desktop/register.css",
+		"/Users/kasinua-arthorn/Desktop/register.html",
+		"/Users/kasinua-arthorn/Downloads/testing.mat.matlab",
+		"/Users/kasinua-arthorn/Desktop/From strach/sss.css",
+		"/Users/kasinua-arthorn/Desktop/ISE-website/css_32fdd6a14543229238137854fa3d7d22.css",
+		"/Users/kasinua-arthorn/Desktop/ise.html",
+		"/Users/kasinua-arthorn/Desktop/NaNakorn/script.js",
+		"/Users/kasinua-arthorn/Desktop/NaNakorn/Index.html",
+		"/Users/kasinua-arthorn/Downloads/untitled folder/canvasdemo.html",
+		"/Users/kasinua-arthorn/Downloads/dogDoors-Maria/Bark.java",
+		"/Users/kasinua-arthorn/Desktop/NaNakorn/style.css",
+		"/Users/kasinua-arthorn/Desktop/NaNakorn/bootstrap.css",
+		"/Users/kasinua-arthorn/Desktop/web em/urgkrissadee.css",
+		"/Users/kasinua-arthorn/Desktop/geolocation-google-api/css/demo.css",
+		"/Users/kasinua-arthorn/Downloads/style.css",
+		"/Users/kasinua-arthorn/Downloads/app.js",
+		"/Users/kasinua-arthorn/Downloads/menu2.html",
+		"/Users/kasinua-arthorn/Desktop/checkbox/css/default.css",
+		"/Users/kasinua-arthorn/Desktop/checkbox/css/component.css",
+		"/Users/kasinua-arthorn/Desktop/checkbox/HTML.html",
+		"/Users/kasinua-arthorn/Downloads/Animated-Multi-level-Dropdown-Menu-Plugin-For-jQuery-dropotron 2/demo/demo1.html",
+		"/Users/kasinua-arthorn/Downloads/CreativeButtons/index.html",
+		"/Users/kasinua-arthorn/Desktop/web/js/leaflet.js",
+		"/Users/kasinua-arthorn/Desktop/web/whatever.html",
+		"/Users/kasinua-arthorn/Desktop/untitled.html",
+		"/Users/kasinua-arthorn/Desktop/People.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"br",
+			"ฟรี",
+			"พรี",
+			"ดูรายละเอียด",
+			"view",
+			"h5",
+			"hr",
+			"single",
+			"image",
+			"tabindex",
+			"feature",
+			"contactUs",
+			".nav",
+			".navbar",
+			"#00CCFF",
+			"total_operator",
+			"total",
+			"total_operator",
+			"serv_time",
+			"arr_time_in_buffer",
+			"total_operator",
+			"busy_operator_1 ",
+			"random",
+			"buffer_cap",
+			"call_centre",
+			"boton",
+			"submenu",
+			"35AE8D800",
+			"navbar-collapse",
+			"collapse",
+			"important",
+			"float",
+			"navbar-nav",
+			"navbar-form",
+			"navbar-right",
+			"navbar-left",
+			"navbar-form ",
+			"ul",
+			"div id=nav",
+			"div id=",
+			"views-nivo",
+			"degree programs",
+			"home",
+			"logo",
+			"more",
+			"inherited from",
+			"position",
+			"chart",
+			"btn-5",
+			"header",
+			"span",
+			"left",
+			"2em",
+			"map",
+			"script",
+			"pure",
+			"st",
+			"con",
+			"connection",
+			"<html>",
+			"<div",
+			"div",
+			"<div",
+			"</html>",
+			"<html>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true
+}

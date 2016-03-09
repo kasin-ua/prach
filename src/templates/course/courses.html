@@ -1,0 +1,8 @@
+
+	<h1>Courses</h1>
+	{% for course in courses %}
+	<div>
+		<h2><a href = "/courses/get/{{course.id}}/">{{course.title}}</a></h2>
+		<p>{{course.body}}</p>
+	</div>
+	{%endfor%}
