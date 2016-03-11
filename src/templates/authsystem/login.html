@@ -1,4 +1,17 @@
- <form action='/accounts/auth/' method='post'>{% csrf_token %}
+{%extends "base.html" %}
+{% load crispy_forms_tags %}
+
+{% block content %}
+<div class="mainbox">
+<div class="tabfont">
+<ul class="nav nav-pills nav-justified">
+  <li class="active"><a data-toggle="pill" href="#Login">Login</a></li>
+  <li><a data-toggle="pill" href="#Register">Register</a></li>
+</ul>
+</div>
+
+ <!--OLD CODE-->
+ <!--<form action='/accounts/auth/' method='post'>{% csrf_token %}
  	<label for="username">Username:</label>
  	<input type="text" name="username" value="" id="username">
  	<label for="password">Password:</label>
@@ -6,4 +19,25 @@
 
  	<input type="submit" value="login">
 
- </form>
+ </form>-->
+ <div class="tab-content">
+  <div id="Login" class="tab-pane fade in active">
+    <form role="form" action='/accounts/auth/' method='post'>{% csrf_token %}
+  <div class="form-group">
+    <label for="username"><h3>Username:</h3></label>
+    <input type="text" class="form-control" name="username" value="" id="username">
+  </div>
+  <div class="form-group">
+    <label for="password"><h3>Password:</h3></label>
+    <input type="password" name="password" class="form-control" id="password">
+  </div>
+  <div class="checkbox">
+    <label><input type="checkbox"> Remember me</label>
+  </div>
+  <button type="submit" class="btn btn-primary btn-lg" value="login">Login</button>
+</form>
+  </div>
+</div>
+</div>
+{% endblock %}
+

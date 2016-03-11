@@ -28,3 +28,6 @@ def create(request):
 	args['form'] = form
 
 	return render(request, 'course/create_course.html',args)
+
+# def create_lesson(request):
+	

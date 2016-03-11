@@ -1,22 +1,46 @@
+
+{% load staticfiles %}
 <!DOCTYPE html>
+
 <html lang="en">
+
+<!-- BOOTSTRAP -->
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <link rel='stylesheet'  href='{% static "css/base.css" %}' />
+  <link rel='stylesheet'  href='{% static "css/font-awesome.min.css" %}' />
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<!-- END BOOTSTRAP -->
+
+
+
 <head>
-    <link rel="stylesheet" href="style.css" />
-    <title>{% block title %}My amazing site{% endblock %}</title>
+    <!--<link rel="stylesheet" href="style.css" />-->
+    <title>{% block title %}PRACH{% endblock %}</title>
 </head>
 
 <body>
-    <div id="sidebar">
+    <!--{% include}-->
+    {% include "navbar.html" %} <!-- Gu aow ma sai nai navbar hai-->
+    <!--<div id="sidebar">
         {% block sidebar %}
         <ul>
             <li><a href="/">Home</a></li>
-            <li><a href="/blog/">Blog</a></li>
+            <li><a href="/accounts/login/">login</a></li>
+            <li><a href="/accounts/register/">Register</a></li>
         </ul>
         {% endblock %}
-    </div>
+    </div>-->
 
-    <div id="content">
+    <!--<div id="content"> tong pen container pa-->
+    <div>
         {% block content %}{% endblock %}
     </div>
+
+
 </body>
 </html>
